@@ -1,0 +1,57 @@
+body {
+	background: transparent;
+}
+img.bgimg {
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	opacity: 0.3;
+	filter: alpha(opacity=30); 
+	z-index: 1;
+}
+div {
+	z-index: 5;
+}
+img.logoimage {
+	width: 50%;
+	min-width: 150px;
+	margin: 0px 25%;
+}
+div.leftheader {
+	float:left;
+	width: 100%;
+	min-width: 150px;
+}
+div.rightheader {
+	float:right;
+	width: 49.9%;
+	text-align: left;
+	vertical-align: center;
+	display:none;
+}
+div.clear {
+	clear: both;
+}
+h1.header {
+	min-height: 75px;
+	max-height: 150px;
+	height: 100%;
+	line-height: 3;
+	display: none;
+}
+h4.motto {
+	font-style: italic;
+	width: 100%;
+	text-align: center;
+	margin: 0px;
+}
+span.middle {
+	display:inline-block;
+    line-height:0;
+    vertical-align:middle;
+}
+div.mobilead {
+	height: 15%;
+	position: fixed;
+	bottom: 0px;
+}

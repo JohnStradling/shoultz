@@ -1,0 +1,13 @@
+Things to add:
+
+Pictures in scroll bar (find stuff online that looks good, this is a proof of concept)
+Footer 
+Form to get quote (don't worry about where it goes, just create the form)
+	--This should include information about the requester (name, contact information), the site (address, size), and the type of work being requested (landscaping, mow/edge/trim, etc).
+	
+Things to do:
+
+Clean up image/layout, make it look professional 
+Use green, suggest growth and growing things
+
+Feel free to look at other landscaping service sites online to get ideas.  We don't want to copy anything, but we don't mind borrowing ideas or layouts.  Also, feel free to change anything I've done.  Seriously.  Your project, your thoughts.

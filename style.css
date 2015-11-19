@@ -1,0 +1,53 @@
+body {
+	background: transparent;
+}
+img.bgimg {
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	opacity: 0.3;
+	filter: alpha(opacity=30); 
+	z-index: 1;
+}
+div {
+	z-index: 5;
+}
+img.logoimage {
+	width: 50%;
+	min-width: 150px;
+}
+div.leftheader {
+	float:left;
+	width: 49.9%;
+	min-width: 150px;
+}
+div.rightheader {
+	float:right;
+	width: 49.9%;
+	text-align: left;
+	vertical-align: center;
+}
+div.clear {
+	clear: both;
+}
+h4.motto {
+	font-style: italic;
+	width: 100%;
+	text-align: left;
+	margin: 0px;
+}
+span.middle {
+	display:inline-block;
+    line-height:0;
+    vertical-align:middle;
+}
+div.mobilead {
+	display:none;
+}
+div.split {
+	width: 24.99%;
+	float: left;
+}
+img.mapsmall {
+	width: 100%;
+}
